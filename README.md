@@ -11,7 +11,8 @@ FFmpeg and ffmpeg-python will have to be installed seperately.
 ## Usage
 
 In a bash shell:
-```cd <directory>
+```
+cd <directory>
 python3 main.py
 ```
 
