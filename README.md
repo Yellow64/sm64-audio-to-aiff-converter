@@ -1,1 +1,1 @@
-# sm64-audio-to-aiff-converter
+# Audio to .aiff sample converter for SM64 Decomp/PC port
